@@ -16,5 +16,5 @@ If the command line install does not work, you can download quarto here: https:/
 
 ## How do I use it?
 1. Change line 9 of the `_quarto.yml` file to the appropriate Project Name of the solution doc.
-2. Change line 19 of the `_quarto.yml` file to the reflect the link to the repo of the newly created solution doc. Ex. https://github.com/ibm-client-engineering/[repo-name]
+2. Change line 21 of the `_quarto.yml` file to the reflect the link to the repo of the newly created solution doc. Ex. https://github.com/ibm-client-engineering/[repo-name]
 3. Assuming that Quarto is already installed, navigate to the appropriate directory with the cloned solution doc repository and run `quarto preview index.qmd` to preview your build locally.

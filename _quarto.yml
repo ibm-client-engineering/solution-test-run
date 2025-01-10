@@ -6,7 +6,7 @@ language:
       search-text-placeholder: Search
 
 website:
-  title: Solutions Hub
+  title: Test Run
   favicon: images/bee.png
   page-navigation: true
   search: 
@@ -18,7 +18,7 @@ website:
     logo: images/IBMlogo.png
     right: 
       - icon: github
-        href: https://github.com/ibm-client-engineering
+        href: https://github.com/ibm-client-engineering/solution-test-run
       - icon: linkedin
         menu:
           - text: Share on your LinkedIn
